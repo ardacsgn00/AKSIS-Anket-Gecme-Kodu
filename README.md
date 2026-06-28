@@ -1,7 +1,7 @@
 # AKSIS-Anket-Gecme-Kodu
 İstanbul Üniversitesi Cerrahpaşa AKSİS Anket Geçme Kodu
 
-Nasıl Kullanılır?
+# Nasıl Kullanılır?
 1- AKSİS sistemine giriş yapın.
 2- Notlarınızın bulunduğu bölümü (Sınav sonuçları ve notlar) açın.
 3- "iüc aksis anket geçme kodu" isimli dosyayı indirip açın ve içindeki her şeyi kopyalayın.
